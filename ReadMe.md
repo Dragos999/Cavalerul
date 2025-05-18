@@ -15,7 +15,7 @@ Explorează, luptă și construiește pentru a reda speranța regatului tău!
 - Clonează repository-ul de pe Github:
   
    ```bash
-    git clone https://github.com/FMIProjects/TheKnight.git
+    git clone https://github.com/Dragos999/Cavalerul.git
    ```
 - Deschide-l în Unity și rulează!
 
